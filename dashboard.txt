@@ -1,0 +1,35 @@
+dashboard
+comes with home
+
+features:
+incidents 
+view visualization
+services
+articles
+laws
+help support
+faq's
+
+
+
+
+navbar consists:
+
+searchbox giving some border radius, placeholders etc and on the top left corner,
+analytics dashboard on below seachbox as a hearder with some marginal gap between them and that is bottom right corner,
+on the top left corner of the header there is notification and user login symbol or button with some 3d design,
+on the bottom left corner the would be current date and timing is shown according to the Indian time zone and this is on the same line as the analytics dashboard.
+
+
+
+
+
+services:
+1. representing real time data of the cyber crime happening in india and also representation and categorization is on the state wise also
+2. also representing the data in the form of the piechart of the cyber crimes happening in day to day life
+3. also giving the real time data visualization map of india and Indian states reporting cyber crime at the real time moment.
+4. also giving user support things like help support that makes the sos call to cyber crime authority of the Indian gov, faq's in which chat bot is going to be integrated.
+5. also planning to launch the website for user's personalized use also that gives regular notification on cyber crimes to you, your filed complaints etc.
+
+https://mymasterportfolio.netlify.app/
+
